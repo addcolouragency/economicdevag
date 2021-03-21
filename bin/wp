@@ -1,0 +1,6 @@
+#!/bin/bash
+. /home/melusi/dev/wordpress-5.7-0/scripts/setenv.sh
+export WP_CLI_CONFIG_PATH="/home/melusi/dev/wordpress-5.7-0/apps/wordpress/bin/wp-cli.yml"
+export WP_CLI_PHP_USED="/home/melusi/dev/wordpress-5.7-0/php/bin/php"
+
+exec "/home/melusi/dev/wordpress-5.7-0/php/bin/php" "/home/melusi/dev/wordpress-5.7-0/apps/wordpress/bin/wp-cli.phar" "$@"

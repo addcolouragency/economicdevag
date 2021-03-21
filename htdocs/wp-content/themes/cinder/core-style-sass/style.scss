@@ -1,0 +1,38 @@
+/*
+Theme Name: Cinder
+Theme URI: https://themeartisans.com/cinder-theme/
+Author: Theme Artisans
+Author URI: https://themeartisans.com
+Description: Cinder is build as a responsive theme for a business website or personal blog. Cinder is WooCommerce ready and works with gutenberg editor.
+Version: 1.0.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cinder
+Tags:left-sidebar, right-sidebar, custom-background, custom-menu, custom-logo, featured-images, sticky-post, footer-widgets, theme-options, threaded-comments, translation-ready, grid-layout, one-column, two-columns, three-columns, blog, e-commerce, entertainment
+
+Cinder is distributed under the terms of the GNU GPL v2 or later.
+*/
+@import "color.scss";
+@import "mixins.scss";
+@import "core.scss";
+/*
+* cinder theme styles
+*/
+@import "additional_colors.scss";
+@import "general.scss";
+@import "superfish.scss";
+@import "slicknav.scss";
+@import "header.scss";
+@import "pagination.scss";
+@import "homepage.scss";
+@import "footer.scss";
+@import "singular.scss";
+@import "gallery.scss";
+@import "image.scss";
+@import "audio.scss";
+@import "video.scss";
+@import "comments.scss";
+@import "sidebar.scss";
+@import "404.scss";
+@import "search.scss";
+@import "woocommerce.scss";
