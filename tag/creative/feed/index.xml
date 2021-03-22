@@ -10,7 +10,7 @@
 <channel>
 	<title>CREATIVE &#8211; Uthukela Economic Development Agency</title>
 	<atom:link href="http://localhost/wordpress/tag/creative/feed/" rel="self" type="application/rss+xml" />
-	<link>http://</link>
+	<link>https://addcolouragency.github.io/economicdevag</link>
 	<description></description>
 	<lastBuildDate>Fri, 25 Oct 2019 11:31:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>http:///wp-content/uploads/2021/03/logo-150x127.png</url>
+	<url>https://addcolouragency.github.io/economicdevag/wp-content/uploads/2021/03/logo-150x127.png</url>
 	<title>CREATIVE &#8211; Uthukela Economic Development Agency</title>
-	<link>http://</link>
+	<link>https://addcolouragency.github.io/economicdevag</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How it all began</title>
-		<link>http:///2019/10/25/how-it-all-began/</link>
-					<comments>http:///2019/10/25/how-it-all-began/#respond</comments>
+		<link>https://addcolouragency.github.io/economicdevag/2019/10/25/how-it-all-began/</link>
+					<comments>https://addcolouragency.github.io/economicdevag/2019/10/25/how-it-all-began/#respond</comments>
 		
 		<dc:creator><![CDATA[melusi]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 11:31:15 +0000</pubDate>
@@ -48,7 +48,7 @@
 <p>Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool for web designers who want to save time.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http:///2019/10/25/how-it-all-began/feed/</wfw:commentRss>
+					<wfw:commentRss>https://addcolouragency.github.io/economicdevag/2019/10/25/how-it-all-began/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
