@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WORDPRESS TEMPLATE &#8211; Uthukela Economic Development Agency</title>
+	<atom:link href="http://localhost/wordpress/tag/wordpress-template/feed/" rel="self" type="application/rss+xml" />
+	<link>http://</link>
+	<description></description>
+	<lastBuildDate>Fri, 25 Oct 2019 11:31:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>http:///wp-content/uploads/2021/03/logo-150x127.png</url>
+	<title>WORDPRESS TEMPLATE &#8211; Uthukela Economic Development Agency</title>
+	<link>http://</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How it all began</title>
+		<link>http:///2019/10/25/how-it-all-began/</link>
+					<comments>http:///2019/10/25/how-it-all-began/#respond</comments>
+		
+		<dc:creator><![CDATA[melusi]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2019 11:31:15 +0000</pubDate>
+				<category><![CDATA[work]]></category>
+		<category><![CDATA[CREATIVE]]></category>
+		<category><![CDATA[IDEAS]]></category>
+		<category><![CDATA[MUSIC]]></category>
+		<category><![CDATA[PHOTOGRAPHY]]></category>
+		<category><![CDATA[UNIQUE]]></category>
+		<category><![CDATA[WORDPRESS TEMPLATE]]></category>
+		<guid isPermaLink="false">http://demo.athemes.com/sydney-redesign/?p=78</guid>
+
+					<description><![CDATA[Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool for web designers who want to save time.]]></description>
+										<content:encoded><![CDATA[
+<p>Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool for web designers who want to save time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http:///2019/10/25/how-it-all-began/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
